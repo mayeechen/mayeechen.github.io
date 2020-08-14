@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mayee Chen, CS PhD Student"
+title: "Mayee Chen, Stanford CS PhD Student"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
