@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mayee Chen, Stanford CS PhD Student"
+title: "Hello! I'm Mayee."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a second year PhD student at Stanford University, advised by [Christopher R\'e](https://cs.stanford.edu/~chrismre/).
+I'm broadly interested in understanding the fundamental theoretical questions behind tools in modern machine learning and using them to develop new practical methods.
+My current interests revolve around how to evaluate sources of supervision, such as in weakly, semi-supervised, and self-supervised learning, and how to address model misspecification in these settings.
+More fundamentally, I have been working on developing efficient and robust estimators in latent variable models and understanding their finite-sample generalization error in different applications. 
+I also enjoy reading about information theory, optimization, and probability theory.
+
+Previously, I graduated Summa Cum Laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing.
+My senior thesis, which was awarded the Ahmet S. \c Cakmak Prize, was on quantum computing with Professor Elad Hazan.
+I also worked with Professor Miklos Racz on understanding the spread of misinformation in social networks.
+I took a broad range of courses in computer science, statistics and financial mathematics and completed internships in software engineering and quantitative finance.
+
+
+<!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
 A data-driven personal website
 ======
