@@ -1,7 +1,7 @@
 # main links links
 main:    
   - title: "CV"
-    url: /files/MayeeChen_CV.pdf
+    url: /cv/
     
   - title: "Personal"
     url: /misc/
