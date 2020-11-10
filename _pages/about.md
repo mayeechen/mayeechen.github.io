@@ -24,31 +24,24 @@ I took a broad range of courses in computer science, statistics and financial ma
 Publications and Preprints
 ------
 - Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.
-
-  Mayee F. Chen\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *In submission*, 2020.
+  <span style="font-size:4em;">Mayee F. Chen\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *In submission*, 2020.</span>
 
 - Efficient Exploration in Linear MDPs with Nonlinear Confounding Rewards
-
   Mayee F. Chen, Yao Liu, Evan Z. Liu, and Emma Brunskill. *In submission*, 2020.
 
 - Network Disruption: Maximizing Disagreement and Polarization in Social Networks.
-
   Mayee F. Chen and Miklos Z. Racz. *In submission*, 2020.
 
 - Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.
-
   Mayee F. Chen\*, Daniel Y. Fu\*, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *arXiv preprint arXiv:2006.15168*, 2020.
 
 - Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods.
-
   Mayee F. Chen\*, Daniel Y. Fu\*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2020.
 
 - Effect of Rotational Grazing on Plant and Animal Production.
-
   Mayee F. Chen and Junping Shi. *Journal of Mathematical Biosciences and Engineering*, vol. 15, no. 2. 2018.
 
 - Efficient GCD Computation for Big Integers on Xeon Phi Coprocessor.
-
   Jie Chen, William Watson, and Mayee F. Chen. *IEEE Conference on Networking, Architecture, and Storage (NAS)*. 2014
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
