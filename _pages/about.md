@@ -37,7 +37,7 @@ Publications and Preprints
 
 - [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.](https://arxiv.org/abs/2006.15168) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *arXiv preprint arXiv:2006.15168*, 2020.</span> <br>
-  <span style="font-size:4mm;"> paper | code | video </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2006.15168.pdf) | code | video </span>
 
 - Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods. <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2020.</span> <br>
