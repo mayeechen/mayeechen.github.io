@@ -25,11 +25,11 @@ Publications and Preprints
 ------
 - Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation. <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Submitted*, 2020.</span> <br>
-  <span style="font-size:4mm;"> paper </span>
+  <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Value_of_Data_Full.pdf) </span>
 
 - Efficient Exploration in Linear MDPs with Nonlinear Confounding Rewards. <br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Yao Liu, Evan Z. Liu, and Emma Brunskill. *Submitted*, 2020.</span> <br>
-  <span style="font-size:4mm;"> paper </span>
+  <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Linear_MDP_with_Confounding_Rewards_Full.pdf) </span>
 
 - [Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *Submitted*, 2020.</span> <br>
@@ -45,9 +45,9 @@ Publications and Preprints
 
 - [Effect of Rotational Grazing on Plant and Animal Production.](https://www.aimsciences.org/article/doi/10.3934/mbe.2018017) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Junping Shi. *Journal of Mathematical Biosciences and Engineering*, vol. 15, no. 2. 2018.</span> <br>
-  <span style="font-size:4mm;"> paper | slides </span>
+  <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/rotational.pdf) | [slides](https://mayeechen.github.io/files/rotational_presentation.pdf) </span>
 
 - [Efficient GCD Computation for Big Integers on Xeon Phi Coprocessor.](https://ieeexplore.ieee.org/abstract/document/6923168) <br>
   <span style="font-size:4mm;">Jie Chen, William Watson, and **Mayee F. Chen**. *IEEE Conference on Networking, Architecture, and Storage (NAS)*. 2014.</span> <br>
-  <span style="font-size:4mm;"> paper | slides </span>
+  <span style="font-size:4mm;"> [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6923168) | [slides](https://mayeechen.github.io/files/nas2014talk.pdf) </span>
 
