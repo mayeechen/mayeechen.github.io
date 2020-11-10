@@ -15,24 +15,24 @@ My current interests revolve around how to evaluate sources of supervision, such
 <!--More fundamentally, I have been working on developing efficient and robust estimators in latent variable models and understanding their finite-sample generalization error in different applications. 
 I also enjoy learning about information theory, optimization, and probability theory.-->
 
-Previously, I graduated summa cum laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing. I worked on my senior thesis with Professor Elad Hazan and completed junior independent work with Professor Miklos Racz.
+Previously, I graduated summa cum laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing. I worked on my senior thesis with Prof. Elad Hazan and completed junior independent work with Prof. Miklos Racz.
 <!--My senior thesis, which was awarded the Ahmet S. Çakmak Prize, was on quantum computing with Professor Elad Hazan.
-I also worked with Professor Miklos Racz on understanding the spread of misinformation in social networks.
+I also worked with Prof. Miklos Racz on understanding the spread of misinformation in social networks.
 I took a broad range of courses in computer science, statistics and financial mathematics and completed internships in software engineering and quantitative finance.-->
 
 
 Publications and Preprints
 ------
 - Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation. <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *In submission*, 2020.</span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Submitted*, 2020.</span> <br>
   <span style="font-size:4mm;"> paper </span>
 
 - Efficient Exploration in Linear MDPs with Nonlinear Confounding Rewards. <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**, Yao Liu, Evan Z. Liu, and Emma Brunskill. *In submission*, 2020.</span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**, Yao Liu, Evan Z. Liu, and Emma Brunskill. *Submitted*, 2020.</span> <br>
   <span style="font-size:4mm;"> paper </span>
 
 - [Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *In submission*, 2020.</span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *Submitted*, 2020.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2003.08377.pdf) | [code](https://github.com/mayeechen/network-disruption) </span>
 
 - [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.](https://arxiv.org/abs/2006.15168) <br>
