@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Computer Science at Stanford University, advised by [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
+I am a second year PhD student in Computer Science at Stanford University, advised by Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
 
 I'm interested in understanding the fundamental theoretical questions behind tools in modern machine learning and using them to develop new practical methods.
 My current interests revolve around how to evaluate sources of supervision, such as in weakly, semi-supervised, and self-supervised learning, and how to address model misspecification in these settings.
@@ -35,7 +35,7 @@ Publications and Preprints
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *In submission*, 2020.</span> <br>
   <span style="font-size:4mm;"> paper | code </span>
 
-- Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings. <br>
+- [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.](https://arxiv.org/abs/2006.15168) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *arXiv preprint arXiv:2006.15168*, 2020.</span> <br>
   <span style="font-size:4mm;"> paper | code | video </span>
 
