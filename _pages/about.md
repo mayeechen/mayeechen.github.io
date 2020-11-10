@@ -23,8 +23,7 @@ I took a broad range of courses in computer science, statistics and financial ma
 
 Publications and Preprints
 ------
-- Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.
-
+- Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation. <br>
   <span style="font-size:4mm;">Mayee F. Chen\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *In submission*, 2020.</span>
 
 - Efficient Exploration in Linear MDPs with Nonlinear Confounding Rewards
