@@ -31,17 +31,17 @@ Publications and Preprints
   <span style="font-size:4mm;">**Mayee F. Chen**, Yao Liu, Evan Z. Liu, and Emma Brunskill. *In submission*, 2020.</span> <br>
   <span style="font-size:4mm;"> paper </span>
 
-- Network Disruption: Maximizing Disagreement and Polarization in Social Networks. <br>
+- [Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *In submission*, 2020.</span> <br>
-  <span style="font-size:4mm;"> paper | code </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2003.08377.pdf) | [code](https://github.com/mayeechen/network-disruption) </span>
 
 - [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.](https://arxiv.org/abs/2006.15168) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *arXiv preprint arXiv:2006.15168*, 2020.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2006.15168.pdf) | code | video </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2006.15168.pdf) | [code](https://github.com/HazyResearch/epoxy) | [video](https://www.youtube.com/watch?v=_d-mseTaYWY) </span>
 
-- Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods. <br>
+- [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods.](https://arxiv.org/abs/2002.11955) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2020.</span> <br>
-  <span style="font-size:4mm;"> paper | code | video | blog </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2002.11955.pdf) | [code](https://github.com/HazyResearch/flyingsquid) | [video](https://www.youtube.com/watch?v=pHadwUKCoNE) | [blog](https://hazyresearch.stanford.edu/flyingsquid) </span>
 
 - Effect of Rotational Grazing on Plant and Animal Production. <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Junping Shi. *Journal of Mathematical Biosciences and Engineering*, vol. 15, no. 2. 2018.</span> <br>
