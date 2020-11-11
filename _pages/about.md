@@ -25,7 +25,7 @@ Publications and Preprints
 ------
 - Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation. <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Submitted*, 2020.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Value_of_Data_Full.pdf) </span>
+  <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Value_of_Data_Full.pdf) | [slides from Google summit](https://mayeechen.github.io/files/Google-Slides-11-6.pdf) </span>
 
 - Efficient Exploration in Linear MDPs with Nonlinear Confounding Rewards. <br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Yao Liu, Evan Z. Liu, and Emma Brunskill. *Submitted*, 2020.</span> <br>
