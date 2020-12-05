@@ -22,5 +22,5 @@ Outside of research, my hobbies and interests include dancing, fashion, food/tra
 ### Triple 8 original choreography - Weight in Gold (Gallant)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rkv7MI4ClKk/0.jpg)](https://www.youtube.com/watch?v=Rkv7MI4ClKk)
 
-### Alliance Fall Quarter Showcase 2019
+### Alliance Winter Quarter Showcase 2020
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PtZGUQy9LzM/0.jpg)](https://www.youtube.com/watch?v=PtZGUQy9LzM)
