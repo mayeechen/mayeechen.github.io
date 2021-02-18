@@ -27,6 +27,7 @@ Publications and Preprints
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. AISTATS, 2021.</span> <br>
   <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Value_of_Data_Full.pdf) | [slides from Google summit](https://mayeechen.github.io/files/Google-Slides-11-6.pdf) </span>
 
+<!---
 - Efficient Exploration in Linear MDPs with Nonlinear Confounding Rewards. <br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Yao Liu, Evan Z. Liu, and Emma Brunskill. *Submitted*, 2020.</span> <br>
   <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Linear_MDP_with_Confounding_Rewards_Full.pdf) </span>
@@ -34,6 +35,7 @@ Publications and Preprints
 - [Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *Submitted*, 2020.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2003.08377.pdf) | [code](https://github.com/mayeechen/network-disruption) </span>
+-->
 
 - [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.](https://arxiv.org/abs/2006.15168) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *arXiv preprint arXiv:2006.15168*, 2020.</span> <br>
