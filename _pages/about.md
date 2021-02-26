@@ -11,11 +11,12 @@ redirect_from:
 I am a second year PhD student in Computer Science at Stanford University, advised by Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
 
 I'm interested in understanding the fundamental theoretical questions behind tools in modern machine learning and using them to develop new practical methods.
-My current interests revolve around how to evaluate sources of supervision, such as in weakly, semi-supervised, and self-supervised learning, and how to address model misspecification in these settings.
+My current interests revolve around how to evaluate sources of supervision (e.g., weakly, semi-supervised, and self-supervised) throughout the ML pipeline and the role of misspecified inductive biases.
 <!--More fundamentally, I have been working on developing efficient and robust estimators in latent variable models and understanding their finite-sample generalization error in different applications. 
 I also enjoy learning about information theory, optimization, and probability theory.-->
 
-Previously, I graduated summa cum laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing. I worked on my senior thesis with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and completed junior independent work with Prof. [Miklos Racz](https://mracz.princeton.edu/).
+Previously, I graduated summa cum laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing.
+I worked on my senior thesis with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and completed junior independent work with Prof. [Miklos Racz](https://mracz.princeton.edu/).
 <!--My senior thesis, which was awarded the Ahmet S. Çakmak Prize, was on quantum computing with Professor Elad Hazan.
 I also worked with Prof. Miklos Racz on understanding the spread of misinformation in social networks.
 I took a broad range of courses in computer science, statistics and financial mathematics and completed internships in software engineering and quantitative finance.-->
