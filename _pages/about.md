@@ -26,7 +26,7 @@ Publications and Preprints
 ------
 - [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. AISTATS, 2021.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Value_of_Data_Full.pdf) | [slides from Google summit](https://mayeechen.github.io/files/Google-Slides-11-6.pdf) </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2103.02761.pdf) | [slides from Google summit](https://mayeechen.github.io/files/Google-Slides-11-6.pdf) </span>
 
 <!---
 - Efficient Exploration in Linear MDPs with Nonlinear Confounding Rewards. <br>
@@ -40,11 +40,11 @@ Publications and Preprints
 
 - [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.](https://arxiv.org/abs/2006.15168) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *arXiv preprint arXiv:2006.15168*, 2020.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2006.15168.pdf) | [code](https://github.com/HazyResearch/epoxy) | [video](https://www.youtube.com/watch?v=_d-mseTaYWY) </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2006.15168.pdf) | [code](https://github.com/HazyResearch/epoxy) | [video](https://www.youtube.com/watch?v=_d-mseTaYWY) </span>
 
 - [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods.](https://arxiv.org/abs/2002.11955) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2020.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2002.11955.pdf) | [code](https://github.com/HazyResearch/flyingsquid) | [video](https://www.youtube.com/watch?v=pHadwUKCoNE) | [blog](https://hazyresearch.stanford.edu/flyingsquid) </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2002.11955.pdf) | [code](https://github.com/HazyResearch/flyingsquid) | [video](https://www.youtube.com/watch?v=pHadwUKCoNE) | [blog](https://hazyresearch.stanford.edu/flyingsquid) </span>
 
 - [Effect of Rotational Grazing on Plant and Animal Production.](https://www.aimsciences.org/article/doi/10.3934/mbe.2018017) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Junping Shi. *Journal of Mathematical Biosciences and Engineering*, vol. 15, no. 2. 2018.</span> <br>
