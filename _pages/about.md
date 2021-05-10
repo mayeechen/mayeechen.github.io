@@ -24,7 +24,7 @@ I took a broad range of courses in computer science, statistics and financial ma
 
 Publications and Preprints
 ------
-- [Mandoline: Model Evaluation under Distribution Shift] <br>
+- [Mandoline: Model Evaluation under Distribution Shift]() <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. ICML, 2021.</span> 
 
 - [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
