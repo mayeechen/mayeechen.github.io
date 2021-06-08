@@ -26,7 +26,7 @@ Publications and Preprints
 ------
 - [Mandoline: Model Evaluation under Distribution Shift]() <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. ICML, 2021.</span> <br>
-  <span style="font-size:4mm;"> [slides](https://mayeechen.github.io/files/DawnWorkshopMandoline.pdf) </span>
+  <span style="font-size:4mm;"> [slides from DAWN workshop](https://mayeechen.github.io/files/DawnWorkshopMandoline.pdf) </span>
 
 - [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. AISTATS, 2021.</span> <br>
