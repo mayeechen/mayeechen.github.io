@@ -24,7 +24,7 @@ I took a broad range of courses in computer science, statistics and financial ma
 
 Publications and Preprints
 ------
-- [Mandoline: Model Evaluation under Distribution Shift]() <br>
+- [Mandoline: Model Evaluation under Distribution Shift](https://mayeechen.github.io/files/mandoline.pdf) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. ICML, 2021.</span> <br>
   <span style="font-size:4mm;"> [slides from DAWN workshop](https://mayeechen.github.io/files/DawnWorkshopMandoline.pdf) </span>
 
