@@ -26,13 +26,18 @@ I took a broad range of courses in computer science, statistics and financial ma
 Publications and Preprints
 ------
 
+- [TABi: Type-Aware Bi-encoders for End-to-End Entity Retrieval]() <br>
+  <span style="font-size:4mm;">Megan E. Leszczynski, Daniel Y. Fu, **Mayee F. Chen**, and Christopher Ré. In submission, 2021.</span> <br>
+
+
+<!---
+- [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. In submission, 2021.</span> <br>
+-->
 - [An Adversarial Model of Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. IEEE Transactions on Network Science and Engineering (TNSE), 2021.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2003.08377.pdf) | [code](https://github.com/mayeechen/network-disruption) </span>
 
-
-- [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. In submission, 2021.</span> <br>
 
 - [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. ICML, 2021.</span> <br>
