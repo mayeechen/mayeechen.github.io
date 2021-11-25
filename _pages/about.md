@@ -35,16 +35,16 @@ Publications and Preprints
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. In submission, 2021.</span> <br>
 -->
 - [An Adversarial Model of Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. IEEE Transactions on Network Science and Engineering (TNSE), 2021.</span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *IEEE Transactions on Network Science and Engineering (TNSE)*, 2021.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/abs/2003.08377.pdf) | [code](https://github.com/mayeechen/network-disruption) </span>
 
 
 - [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. ICML, 2021.</span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2021.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2107.00643.pdf) | [code](https://github.com/HazyResearch/mandoline) | [slides](https://mayeechen.github.io/files/ICMLMandolineTalk.pdf) </span>
 
 - [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. AISTATS, 2021.</span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Artificial Intelligence and Statistics (AISTATS)*, 2021.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2103.02761.pdf) | [slides](https://mayeechen.github.io/files/AISTATS2021talk.pdf) </span>
 
 <!---
