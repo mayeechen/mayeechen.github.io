@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in Computer Science at Stanford University, advised by Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
+I am a PhD student in Computer Science at Stanford University, advised by Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
 
 I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods. My current interests revolve around how to encode and evaluate sources of supervision and side information throughout the ML pipeline (e.g. weakly/semi/self-supervised) through both information-theoretic and geometric lenses. In particular, my work in graduate school so far has applied this interest to latent variable graphical models, distribution shift, and representations learned via contrastive losses.
 
@@ -26,12 +26,18 @@ I took a broad range of courses in computer science, statistics and financial ma
 Publications and Preprints
 ------
 
-- [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
-  <span style="font-size:4mm;">Daniel Y. Fu\*, **Mayee F. Chen**\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022.</span> <br>
+- [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision]() <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
+
+- [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning]() <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
+
 
 - [TABi: Type-Aware Bi-encoders for End-to-End Entity Retrieval]() <br>
-  <span style="font-size:4mm;">Megan E. Leszczynski, Daniel Y. Fu, **Mayee F. Chen**, and Christopher Ré. In submission, 2021.</span> <br>
+  <span style="font-size:4mm;">Megan E. Leszczynski, Daniel Y. Fu, **Mayee F. Chen**, and Christopher Ré. To Appear in the Findings of the Association for Computational Linguistics (ACL), 2022.</span> <br>
 
+- [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
+  <span style="font-size:4mm;">Daniel Y. Fu\*, **Mayee F. Chen**\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022. **Best Paper Award.**</span> <br>
 
 <!---
 - [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
