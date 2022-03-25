@@ -37,7 +37,7 @@ Publications and Preprints
   <span style="font-size:4mm;">Megan E. Leszczynski, Daniel Y. Fu, **Mayee F. Chen**, and Christopher Ré. To Appear in the Findings of the Association for Computational Linguistics (ACL), 2022.</span> <br>
 
 - [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
-  <span style="font-size:4mm;">Daniel Y. Fu\*, **Mayee F. Chen**\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022. **Best Paper Award.**</span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022. **Best Paper Award.**</span> <br>
 
 <!---
 - [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
