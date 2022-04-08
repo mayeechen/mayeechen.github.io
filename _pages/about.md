@@ -26,8 +26,9 @@ I took a broad range of courses in computer science, statistics and financial ma
 Publications and Preprints
 ------
 
-- [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision]() <br>
+- [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [slides for Snorkel AI talk](https://mayeechen.github.io/files/Liger_Snorkel_Talk.pdf) </span>
 
 - [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning]() <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
@@ -38,11 +39,6 @@ Publications and Preprints
 
 - [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022. **Best Paper Award.**</span> <br>
-
-<!---
-- [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning]() <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. In submission, 2021.</span> <br>
--->
 
 - [An Adversarial Model of Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *IEEE Transactions on Network Science and Engineering (TNSE)*, 2021.</span> <br>
