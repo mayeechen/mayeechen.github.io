@@ -59,10 +59,11 @@ Publications and Preprints
   <span style="font-size:4mm;"> [paper](https://mayeechen.github.io/files/Linear_MDP_with_Confounding_Rewards_Full.pdf) </span>
 -->
 
-
+<!---
 - [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings.](https://arxiv.org/abs/2006.15168) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *arXiv preprint arXiv:2006.15168*, 2020.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2006.15168.pdf) | [code](https://github.com/HazyResearch/epoxy) | [video](https://www.youtube.com/watch?v=_d-mseTaYWY) </span>
+-->
 
 - [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods.](https://arxiv.org/abs/2002.11955) <br>
   <span style="font-size:4mm;">Daniel Y. Fu\*, **Mayee F. Chen**\*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2020.</span> <br>
