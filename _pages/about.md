@@ -30,7 +30,7 @@ Publications and Preprints
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [slides for Snorkel AI talk](https://mayeechen.github.io/files/Liger_Snorkel_Talk.pdf) </span>
 
-- [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning]() <br>
+- Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
 
 
