@@ -30,12 +30,14 @@ Publications and Preprints
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [slides for Snorkel AI talk](https://mayeechen.github.io/files/Liger_Snorkel_Talk.pdf) </span>
 
-- Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning <br>
+- [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning](https://arxiv.org/abs/2204.07596) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.07596.pdf) </span>
 
 
-- TABi: Type-Aware Bi-encoders for End-to-End Entity Retrieval <br>
+- [TABi: Type-Aware Bi-encoders for End-to-End Entity Retrieval](https://arxiv.org/abs/2204.08173) <br>
   <span style="font-size:4mm;">Megan E. Leszczynski, Daniel Y. Fu, **Mayee F. Chen**, and Christopher Ré. To Appear in the Findings of the Association for Computational Linguistics (ACL), 2022.</span> <br>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.08173.pdf) </span>
 
 - The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022. **Best Paper Award.**</span> <br>
