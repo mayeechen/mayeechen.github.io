@@ -39,8 +39,9 @@ Publications and Preprints
   <span style="font-size:4mm;">Megan E. Leszczynski, Daniel Y. Fu, **Mayee F. Chen**, and Christopher Ré. To Appear in the Findings of the Association for Computational Linguistics (ACL), 2022.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.08173.pdf) </span>
 
-- The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning <br>
+- [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning](https://www.mdpi.com/2813-0324/3/1/4) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022. **Best Paper Award.**</span> <br>
+  <span style="font-size:4mm;"> [paper](https://www.mdpi.com/2813-0324/3/1/4/pdf) </span>
 
 - [An Adversarial Model of Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *IEEE Transactions on Network Science and Engineering (TNSE)*, 2021.</span> <br>
