@@ -27,11 +27,11 @@ Publications and Preprints
 ------
 
 - [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. *Uncertainty in Artificial Intelligence (UAI)*, 2022. **Oral Presentation.** </span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [slides for Snorkel AI talk](https://mayeechen.github.io/files/Liger_Snorkel_Talk.pdf) </span>
 
 - [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning](https://arxiv.org/abs/2204.07596) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. In Submission. </span> <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2022. </span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.07596.pdf) </span>
 
 
