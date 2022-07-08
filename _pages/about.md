@@ -14,7 +14,7 @@ I am a PhD student in Computer Science at Stanford University, advised by Prof. 
 I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
 My current research is in understanding representation geometry and modeling data, explained in more detail below:
 
-- **Representation Geometry**: Traditional generalization results for supervised learning do not fully explain the capabilities of deep neural networks. Instead, examining the geometry of last-layer representations provides a way to understand these models. What makes for good learned representations, and how do we induce them? What theoretical frameworks can we develop to better understand geometry in deep learning, and what are their limitations in practice? I have been looking at these questions for self-supervised and contrastive learning recently.
+- **Representation Geometry**: Examining the geometry of last-layer representations provides a way to understand modern deep models beyond traditional supervised generalization results. What makes for good learned representations, and how do we provably induce them? <!--What theoretical frameworks can we develop to better understand geometry in deep learning, and what are their limitations in practice?--> I have been looking at these questions for self-supervised and contrastive learning recently.
 
 - **Data(-centric AI)**: Real data is noisy, biased, and expensive to label. There are also other imperfect sources of signal that are available, ranging from external knowledge bases to pre-trained representations. How can we best model and harness real data and these other signals throughout the machine learning pipeline? I have been looking at these questions through the lens of Weak Supervision and latent variable graphical models.
 
@@ -25,8 +25,8 @@ My current research is in understanding representation geometry and modeling dat
 <!--More fundamentally, I have been working on developing efficient and robust estimators in latent variable models and understanding their finite-sample generalization error in different applications. 
 I also enjoy learning about information theory, optimization, and probability theory.-->
 
-Previously, I graduated summa cum laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing.
-I worked on my senior thesis on quantum machine learning with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and completed junior independent work on modeling misinformation in social networks  with Prof. [Miklos Racz](https://mracz.princeton.edu/).
+Previously, I graduated summa cum laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing, where I worked with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and Prof. [Miklos Racz](https://mracz.princeton.edu/).
+<!--I worked on my senior thesis on quantum machine learning with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and completed junior independent work on modeling misinformation in social networks  with Prof. [Miklos Racz](https://mracz.princeton.edu/).-->
 <!--My senior thesis, which was awarded the Ahmet S. Çakmak Prize, was on quantum computing with Professor Elad Hazan.
 I also worked with Prof. Miklos Racz on understanding the spread of misinformation in social networks.
 I took a broad range of courses in computer science, statistics and financial mathematics and completed internships in software engineering and quantitative finance.-->
