@@ -12,7 +12,7 @@ I am a PhD student in Computer Science at Stanford University, advised by Prof. 
 
 <!--I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods.-->
 I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
-Recently, I've been interested in understanding _representation geometry_ of deep networks and how to provably induce desirable geometries. I am also work on various things revolving around  _``data-centric AI''_, where I focus on Weak Supervision and data selection.
+Recently, I've been interested in understanding **representation geometry** of deep networks and how to provably induce desirable geometries. I am also work on various things revolving around  **data-centric AI**, where I focus on Weak Supervision and data selection.
 
 <!--My current research is in understanding representation geometry and modeling data, explained in more detail below:-->
 
