@@ -12,11 +12,13 @@ I am a PhD student in Computer Science at Stanford University, advised by Prof. 
 
 <!--I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods.-->
 I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
-My current research is in understanding representation geometry and modeling data, explained in more detail below:
+Recently, I've been interested in understanding _representation geometry_ of deep networks and how to provably induce desirable geometries. I am also work on various things revolving around  _``data-centric AI''_, where I focus on Weak Supervision and data selection.
 
-- **Representation Geometry**: Examining the geometry of last-layer representations provides a way to understand modern deep models beyond traditional supervised generalization results. What makes for good learned representations, and how do we provably induce them? <!--What theoretical frameworks can we develop to better understand geometry in deep learning, and what are their limitations in practice?--> I have been looking at these questions for contrastive learning recently.
+<!--My current research is in understanding representation geometry and modeling data, explained in more detail below:-->
 
-- **Data(-centric AI)**: Real data is noisy, biased, and expensive to label. There are also other imperfect sources of signal that are available, ranging from external knowledge bases to pre-trained representations. How can we best model and harness real data and these other signals throughout the machine learning pipeline? I have been looking at these questions through the lens of Weak Supervision and latent variable graphical models.
+<!-- **Representation Geometry**: Examining the geometry of last-layer representations provides a way to understand modern deep models beyond traditional supervised generalization results. What makes for good learned representations, and how do we provably induce them? What theoretical frameworks can we develop to better understand geometry in deep learning, and what are their limitations in practice? I have been looking at these questions for contrastive learning recently.-->
+
+<!-- **Data(-centric AI)**: Real data is noisy, biased, and expensive to label. There are also other imperfect sources of signal that are available, ranging from external knowledge bases to pre-trained representations. How can we best model and harness real data and these other signals throughout the machine learning pipeline? I have been looking at these questions through the lens of Weak Supervision and latent variable graphical models.-->
 
 
 <!--My current interests revolve around how to encode and evaluate sources of supervision and side information throughout the ML pipeline (e.g. weakly/semi/self-supervised) through both information-theoretic and geometric lenses. In particular, my work in graduate school so far has applied this interest to latent variable graphical models, distribution shift, and representations learned via contrastive losses.-->
