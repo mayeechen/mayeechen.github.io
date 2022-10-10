@@ -11,8 +11,8 @@ redirect_from:
 I am a PhD student in Computer Science at Stanford University, advised by Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
 
 <!--I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods.-->
-I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
 
+I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
 Recently, I've been focused on **data-centric AI**, working on understanding the role of data through weak supervision and data selection, in particular for foundation models. I'm also interested in the **representation geometry** of neural networks and how to induce desirable geometries.
 
 
