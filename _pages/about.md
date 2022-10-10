@@ -12,7 +12,11 @@ I am a PhD student in Computer Science at Stanford University, advised by Prof. 
 
 <!--I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods.-->
 I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
-Recently, I've been interested in understanding **representation geometry** of deep networks and how to provably induce desirable geometries. I am also work on various things revolving around  **data-centric AI**, where I focus on Weak Supervision and data selection.
+
+Recently, I've been focused on **data-centric AI**, working on understanding the role of data through weak supervision and data selection, in particular for foundation models. I'm also interested in the **representation geometry** of neural networks and how to induce desirable geometries.
+
+
+<!--understanding **representation geometry** of deep networks and how to provably induce desirable geometries. I am also work on various things revolving around  **data-centric AI**, where I focus on Weak Supervision and data selection.-->
 
 <!--My current research is in understanding representation geometry and modeling data, explained in more detail below:-->
 
@@ -37,7 +41,20 @@ I took a broad range of courses in computer science, statistics and financial ma
 Publications and Preprints
 ------
 
-### Representation Geometry
+
+- [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
+  <span style="font-size:4mm;">Simran Arora, Avanika Narayan, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *In submission*. </span><br>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2210.02441.pdf)
+
+- [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
+  <span style="font-size:4mm;">Khaled Saab, Sarah M. Hooper, **Mayee F. Chen**, Michael Zhang, Daniel Rubin, Christopher Ré. *Machine Learning for Healthcare (MLHC)*, 2022. </span><br>
+  <span style="font-size:4mm;">[paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf)
+
+
+- [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270) <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. *Uncertainty in Artificial Intelligence (UAI)*, 2022. **Best Student Paper Runner-Up Award, Oral Presentation.** </span> <br>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [slides](https://mayeechen.github.io/files/LigerUAITalk.pdf) </span>
+
 
 - [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning](https://arxiv.org/abs/2204.07596) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2022. </span> <br>
@@ -53,11 +70,7 @@ Publications and Preprints
   <span style="font-size:4mm;"> [paper](https://www.mdpi.com/2813-0324/3/1/4/pdf) </span>
 
 
-### Data Modeling
 
-- [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. *Uncertainty in Artificial Intelligence (UAI)*, 2022. **Best Student Paper Runner-Up Award, Oral Presentation.** </span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [slides](https://mayeechen.github.io/files/LigerUAITalk.pdf) </span>
 
 - [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2021.</span> <br>
@@ -72,10 +85,8 @@ Publications and Preprints
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2002.11955.pdf) | [code](https://github.com/HazyResearch/flyingsquid) | [video](https://www.youtube.com/watch?v=pHadwUKCoNE) | [blog](https://hazyresearch.stanford.edu/flyingsquid) </span>
 
 
-### Other
+### Older
 
-- [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.]() <br>
-  <span style="font-size:4mm;">Khaled Saab, Sarah M. Hooper, **Mayee F. Chen**, Michael Zhang, Daniel Rubin, Christopher Ré. *Machine Learning for Healthcare (MLHC)*, 2022. </span><br>
 
 - [An Adversarial Model of Network Disruption: Maximizing Disagreement and Polarization in Social Networks.](https://arxiv.org/abs/2003.08377) <br>
   <span style="font-size:4mm;">**Mayee F. Chen** and Miklos Z. Racz. *IEEE Transactions on Network Science and Engineering (TNSE)*, 2021.</span> <br>
