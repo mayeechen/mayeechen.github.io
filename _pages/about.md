@@ -43,11 +43,11 @@ Publications and Preprints
 
 - [Anomaly Detection with Multiple Reference Datasets](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf) <br>
   <span style="font-size:4mm;">Mayee F. Chen, Benjamin Nachman, Frederic Sala. *Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
-  <span style="font-size:4mm;">[paper](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf)
+  <span style="font-size:4mm;">[paper](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf) | [code](https://github.com/mayeechen/anomaly-detection-multi)
 
 - [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
   <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *In submission*. </span><br>
-  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2210.02441.pdf)
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2210.02441.pdf) | [code](https://github.com/HazyResearch/ama_prompting)
 
 - [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
   <span style="font-size:4mm;">Khaled Saab, Sarah M. Hooper, **Mayee F. Chen**, Michael Zhang, Daniel Rubin, Christopher Ré. *Machine Learning for Healthcare (MLHC)*, 2022. </span><br>
@@ -56,28 +56,27 @@ Publications and Preprints
 
 - [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. *Uncertainty in Artificial Intelligence (UAI)*, 2022. **Best Student Paper Runner-Up Award, Oral Presentation.** </span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [slides](https://mayeechen.github.io/files/LigerUAITalk.pdf) </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [code](https://github.com/HazyResearch/liger) [slides](https://mayeechen.github.io/files/LigerUAITalk.pdf) | [blog](https://snorkel.ai/liger-fusing-foundation-model-embeddings-weak-supervision/) | [Snorkel talk](https://www.youtube.com/watch?v=rTpwOYXUuCk) </span>
 
 
 - [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning](https://arxiv.org/abs/2204.07596) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Avanika Narayan, Michael Zhang, Zhao Song, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2022. </span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.07596.pdf) </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.07596.pdf) | [code](https://github.com/HazyResearch/thanos-code) | [blog](https://hazyresearch.stanford.edu/blog/2022-04-19-contrastive-2) </span>
 
 
 - [TABi: Type-Aware Bi-encoders for End-to-End Entity Retrieval](https://arxiv.org/abs/2204.08173) <br>
   <span style="font-size:4mm;">Megan E. Leszczynski, Daniel Y. Fu, **Mayee F. Chen**, and Christopher Ré. To Appear in the Findings of the Association for Computational Linguistics (ACL), 2022.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.08173.pdf) </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2204.08173.pdf) | [code](https://github.com/HazyResearch/tabi) | [blog](https://hazyresearch.stanford.edu/blog/2022-04-19-contrastive-3) </span>
+  
 
 - [The Details Matter: Preventing Class Collapse in Supervised Contrastive Learning](https://www.mdpi.com/2813-0324/3/1/4) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Michael Zhang, Kayvon Fatahalian, and Christopher Ré. *AAAI Workshop on Artificial Intelligence with Biased or Scarce Data*, 2022. **Best Paper Award.**</span> <br>
-  <span style="font-size:4mm;"> [paper](https://www.mdpi.com/2813-0324/3/1/4/pdf) </span>
-
-
+  <span style="font-size:4mm;"> [paper](https://www.mdpi.com/2813-0324/3/1/4/pdf) | [code](https://github.com/HazyResearch/thanos-code) </span>
 
 
 - [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2021.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2107.00643.pdf) | [code](https://github.com/HazyResearch/mandoline) | [slides](https://mayeechen.github.io/files/ICMLMandolineTalk.pdf) </span>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2107.00643.pdf) | [code](https://github.com/HazyResearch/mandoline) | [slides](https://mayeechen.github.io/files/ICMLMandolineTalk.pdf) </span> | [MedAI talk](https://www.youtube.com/watch?v=LmiNQio4db0)
 
 - [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Artificial Intelligence and Statistics (AISTATS)*, 2021.</span> <br>
