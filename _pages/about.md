@@ -41,9 +41,12 @@ I took a broad range of courses in computer science, statistics and financial ma
 Publications and Preprints
 ------
 
+- [Anomaly Detection with Multiple Reference Datasets](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf) <br>
+  <span style="font-size:4mm;">Mayee F. Chen, Benjamin Nachman, Frederic Sala. *Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
+  <span style="font-size:4mm;">[paper](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf)
 
 - [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
-  <span style="font-size:4mm;">Simran Arora, Avanika Narayan, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *In submission*. </span><br>
+  <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *In submission*. </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2210.02441.pdf)
 
 - [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
