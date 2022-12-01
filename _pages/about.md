@@ -76,7 +76,7 @@ Publications and Preprints
 
 - [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2021.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2107.00643.pdf) | [code](https://github.com/HazyResearch/mandoline) | [slides](https://mayeechen.github.io/files/ICMLMandolineTalk.pdf) </span> | [MedAI talk](https://www.youtube.com/watch?v=LmiNQio4db0)
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2107.00643.pdf) | [code](https://github.com/HazyResearch/mandoline) | [slides](https://mayeechen.github.io/files/ICMLMandolineTalk.pdf) | [MedAI talk](https://www.youtube.com/watch?v=LmiNQio4db0) </span>
 
 - [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Artificial Intelligence and Statistics (AISTATS)*, 2021.</span> <br>
