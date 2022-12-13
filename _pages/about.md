@@ -51,7 +51,7 @@ Publications and Preprints
 
 - [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
   <span style="font-size:4mm;">Khaled Saab, Sarah M. Hooper, **Mayee F. Chen**, Michael Zhang, Daniel Rubin, Christopher Ré. *Machine Learning for Healthcare (MLHC)*, 2022. </span><br>
-  <span style="font-size:4mm;">[paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf)
+  <span style="font-size:4mm;">[paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) | [code](https://github.com/khaledsaab/spatial_specificity)
 
 
 - [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270) <br>
