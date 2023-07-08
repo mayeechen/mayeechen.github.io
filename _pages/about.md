@@ -40,13 +40,21 @@ I took a broad range of courses in computer science, statistics and financial ma
 
 Publications and Preprints
 ------
+- [Skill-it! A data-driven skills framework for understanding and training language models.]()
+  <span style="font-size:4mm;">Mayee F. Chen, Nicholas Roberts, Kush Bhatia, Jue WANG, Ce Zhang, Frederic Sala, Christopher R\'e. *ICML Workshop on Data-centric Machine Learning Research*, 2023. </span><br>
+ 
+- [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.]()
+  <span style="font-size:4mm;">Neel Guha, Mayee F. Chen, Kush Bhatia,Azalia Mirhoseini, Frederic Sala, Christopher R\'e. *In submission*, 2023. </span><br>
+
+- [A case for reframing automated medical image classification as segmentation.]()
+  <span style="font-size:4mm;">Sarah Hooper, Mayee F Chen, Khaled Kamal Saab, Kush Bhatia, Curtis Langlotz, Christopher R\'e. * In submission, 2023. </span><br> 
 
 - [Anomaly Detection with Multiple Reference Datasets](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf) <br>
   <span style="font-size:4mm;">Mayee F. Chen, Benjamin Nachman, Frederic Sala. *Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
   <span style="font-size:4mm;">[paper](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf) | [code](https://github.com/mayeechen/anomaly-detection-multi)
 
 - [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
-  <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2023. </span><br>
+  <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2023. **Notable top-25\%.** </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2210.02441.pdf) | [code](https://github.com/HazyResearch/ama_prompting)
 
 - [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
