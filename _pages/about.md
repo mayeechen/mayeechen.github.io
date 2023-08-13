@@ -12,8 +12,13 @@ I am a PhD student in Computer Science at Stanford University, advised by Prof. 
 
 <!--I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods.-->
 
-I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
-Recently, I've been focused on **data-centric AI**, working on understanding the role of data through weak supervision and data selection, in particular for foundation models. I'm also interested in the **representation geometry** of neural networks and how to induce desirable geometries.
+I'm interested in using a theoretical lens to improve modern machine learning techniques from the data side of things (what is often referred to as **data-centric AI**). Recently, I've been focusing on problems in data selection, data labeling, and data representations, especially in the setting where there are multiple input signals or objectives. Moving forward, I am particularly excited about developing a more principled understanding of how models learn from data.
+
+Please get in touch with me via email if you would like to chat about research! 
+
+
+<!--I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
+Recently, I've been focused on **data-centric AI**, working on understanding the role of data through weak supervision and data selection, in particular for foundation models. I'm also interested in the **representation geometry** of neural networks and how to induce desirable geometries.-->
 
 
 <!--understanding **representation geometry** of deep networks and how to provably induce desirable geometries. I am also work on various things revolving around  **data-centric AI**, where I focus on Weak Supervision and data selection.-->
@@ -40,8 +45,9 @@ I took a broad range of courses in computer science, statistics and financial ma
 
 Publications and Preprints
 ------
-- [Skill-it! A data-driven skills framework for understanding and training language models.]()
-  <span style="font-size:4mm;">Mayee F. Chen, Nicholas Roberts, Kush Bhatia, Jue WANG, Ce Zhang, Frederic Sala, Christopher Ré. *ICML Workshop on Data-centric Machine Learning Research*, 2023. </span><br>
+- [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)
+  <span style="font-size:4mm;">Mayee F. Chen, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *ICML Workshop on Data-centric Machine Learning Research*, 2023. </span><br>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf)
  
 - [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)
   <span style="font-size:4mm;">Neel Guha, Mayee F. Chen, Kush Bhatia, Azalia Mirhoseini, Frederic Sala, Christopher Ré. *In submission*, 2023. </span><br>
@@ -50,9 +56,9 @@ Publications and Preprints
 - [A case for reframing automated medical image classification as segmentation.]()
   <span style="font-size:4mm;">Sarah Hooper, Mayee F Chen, Khaled Kamal Saab, Kush Bhatia, Curtis Langlotz, Christopher Ré. * In submission, 2023. </span><br> 
 
-- [Anomaly Detection with Multiple Reference Datasets](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf) <br>
+- [Anomaly Detection with Multiple Reference Datasets](https://link.springer.com/article/10.1007/JHEP07(2023)188) <br>
   <span style="font-size:4mm;">Mayee F. Chen, Benjamin Nachman, Frederic Sala. *Journal of High Energy Physics (JHEP)*, 2023. Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
-  <span style="font-size:4mm;">[paper](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_18.pdf) | [code](https://github.com/mayeechen/anomaly-detection-multi)
+  <span style="font-size:4mm;">[paper](https://link.springer.com/article/10.1007/JHEP07(2023)188) | [code](https://github.com/mayeechen/anomaly-detection-multi)
 
 - [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
   <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2023. **Notable top-25\%.** </span><br>
