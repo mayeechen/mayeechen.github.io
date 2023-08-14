@@ -49,19 +49,19 @@ Please get in touch with me via email if you would like to chat about research!
 
 Publications and Preprints
 ------
-- [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)
+- [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)<br>
   <span style="font-size:4mm;">Mayee F. Chen, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *ICML Workshop on Data-centric Machine Learning Research*, 2023. </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf)
  
-- [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)
+- [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)<br>
   <span style="font-size:4mm;">Neel Guha, Mayee F. Chen, Kush Bhatia, Azalia Mirhoseini, Frederic Sala, Christopher Ré. *In submission*, 2023. </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.11031.pdf)
 
-- [A case for reframing automated medical image classification as segmentation.]()
-  <span style="font-size:4mm;">Sarah Hooper, Mayee F Chen, Khaled Kamal Saab, Kush Bhatia, Curtis Langlotz, Christopher Ré. * In submission, 2023. </span><br> 
+- [A case for reframing automated medical image classification as segmentation.]()<br>
+  <span style="font-size:4mm;">Sarah Hooper, Mayee F. Chen, Khaled Kamal Saab, Kush Bhatia, Curtis Langlotz, Christopher Ré. *In submission*, 2023. </span><br> 
 
 - [Anomaly Detection with Multiple Reference Datasets](https://link.springer.com/article/10.1007/JHEP07(2023)188) <br>
-  <span style="font-size:4mm;">Mayee F. Chen, Benjamin Nachman, Frederic Sala. *Journal of High Energy Physics (JHEP)*, 2023. Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
+  <span style="font-size:4mm;">Mayee F. Chen, Benjamin Nachman, Frederic Sala. *Journal of High Energy Physics (JHEP)*, 2023. *Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
   <span style="font-size:4mm;">[paper](https://link.springer.com/article/10.1007/JHEP07(2023)188) | [code](https://github.com/mayeechen/anomaly-detection-multi)
 
 - [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
