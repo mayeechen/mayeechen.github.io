@@ -14,7 +14,7 @@ I am a PhD student in Computer Science at Stanford University, advised by Prof. 
 
 I'm interested in using a theoretical lens to improve modern machine learning techniques from the data side of things (what is often referred to as **data-centric AI**). Recently, I've been focusing on problems in data selection, data labeling, and data representations, especially in the setting where there are multiple input signals or objectives. Moving forward, I am particularly excited about developing a more principled understanding of how models learn from data.
 
-Please get in touch with me via email if you would like to chat about research! 
+
 
 
 <!--I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
@@ -41,6 +41,10 @@ Previously, I graduated summa cum laude from Princeton University in 2019 with a
 <!--My senior thesis, which was awarded the Ahmet S. Çakmak Prize, was on quantum computing with Professor Elad Hazan.
 I also worked with Prof. Miklos Racz on understanding the spread of misinformation in social networks.
 I took a broad range of courses in computer science, statistics and financial mathematics and completed internships in software engineering and quantitative finance.-->
+
+
+
+Please get in touch with me via email if you would like to chat about research!
 
 
 Publications and Preprints
