@@ -50,7 +50,7 @@ Please get in touch with me via email if you would like to chat about research o
 Publications and Preprints
 ------
 - [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)<br>
-  <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight.**</span><br>
+  <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight (top 3.1% of submissions).**</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf) | [AllenAI talk](https://mayeechen.github.io/files/allenai_talk.pdf) </span>
  
 - [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)<br>
@@ -65,7 +65,7 @@ Publications and Preprints
   <span style="font-size:4mm;">[paper](https://link.springer.com/article/10.1007/JHEP07(2023)188) | [code](https://github.com/mayeechen/anomaly-detection-multi)</span>
 
 - [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
-  <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2023. **Notable top 25%.** </span><br>
+  <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2023. **Notable top 25% of acceptances.** </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2210.02441.pdf) | [code](https://github.com/HazyResearch/ama_prompting)</span>
 
 - [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
