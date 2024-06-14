@@ -49,6 +49,12 @@ Please get in touch with me via email if you would like to chat about research o
 
 Publications and Preprints
 ------
+- [Smoothie: Label Free Language Model Routing]()<br>
+  <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *In submission*, 2024.</span><br>
+  
+- [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates]()<br>
+  <span style="font-size:4mm;">Avanika Narayan\*, **Mayee F. Chen**\*, Kush Bhatia, Christopher Ré. *In submission*, 2024.</span><br>
+  
 - [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight (top 3.1% of submissions).**</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf) | [AllenAI talk](https://mayeechen.github.io/files/allenai_talk.pdf) </span>
