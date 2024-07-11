@@ -53,7 +53,7 @@ Publications and Preprints
   <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *In submission*, 2024.</span><br>
   
 - [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates]()<br>
-  <span style="font-size:4mm;">Avanika Narayan\*, **Mayee F. Chen**\*, Kush Bhatia, Christopher Ré. *In submission*, 2024.</span><br>
+  <span style="font-size:4mm;">Avanika Narayan\*, **Mayee F. Chen**\*, Kush Bhatia, Christopher Ré. *Conference on Language Modeling (COLM)*, 2024.</span><br>
   
 - [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight (top 3.1% of submissions).**</span><br>
