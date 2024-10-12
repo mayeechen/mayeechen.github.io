@@ -47,18 +47,20 @@ I took a broad range of courses in computer science, statistics and financial ma
 Please get in touch with me via email if you would like to chat about research or collaboration!
 
 
-### Publications and Preprints
+## Publications and Preprints
 ------
+
+For a chronological order of my publications, please check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dhgytncAAAAJ&view_op=list_works&sortby=pubdate)/[CV](https://mayeechen.github.io/files/MayeeChen_CV.pdf). 
+
+### Training Data
 
 - [Aioli: A Unified Optimization Framework for Language Model Data Mixing]()<br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Michael Y. Hu\*, Nicholas Lourie, Kyunghyun Cho, Christopher Ré. *In submission*, 2024.</span><br>
 
-- [Archon: An Architecture Search Framework for Inference-Time Techniques]()<br>
-  <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *In submission*, 2024.</span><br>
+- [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)<br>
+  <span style="font-size:4mm;">Jeffrey Li, ..., Ludwig Schmidt, Vaishaal Shankar (59 authors, including **Mayee F. Chen**). *Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, 2024.</span><br>
+<span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2406.11794.pdf) | [code](https://github.com/mlfoundations/dclm) | [project page](https://www.datacomp.ai/dclm/)</span>
 
-- [Smoothie: Label Free Language Model Routing]()<br>
-  <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
-  
 - [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates](https://arxiv.org/abs/2410.05224)<br>
   <span style="font-size:4mm;">Avanika Narayan\*, **Mayee F. Chen**\*, Kush Bhatia, Christopher Ré. *Conference on Language Modeling (COLM)*, 2024.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2410.05224.pdf) </span>
@@ -66,30 +68,43 @@ Please get in touch with me via email if you would like to chat about research o
 - [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight (top 3.1% of submissions).**</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf) | [AllenAI talk](https://mayeechen.github.io/files/allenai_talk.pdf) | [code](https://github.com/HazyResearch/skill-it) </span>
- 
+
+### Test-time Improvements
+
+
+- [Archon: An Architecture Search Framework for Inference-Time Techniques]()<br>
+  <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *In submission*, 2024.</span><br>
+
+- [Smoothie: Label Free Language Model Routing]()<br>
+  <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
+  
+
 - [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)<br>
   <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Kush Bhatia\*, Azalia Mirhoseini, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.11031.pdf)</span>
-
-- [A case for reframing automated medical image classification as segmentation.]()<br>
-  <span style="font-size:4mm;">Sarah Hooper, **Mayee F. Chen**, Khaled Kamal Saab, Kush Bhatia, Curtis Langlotz, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. </span><br> 
-
-- [Anomaly Detection with Multiple Reference Datasets](https://link.springer.com/article/10.1007/JHEP07(2023)188) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**, Benjamin Nachman, Frederic Sala. *Journal of High Energy Physics (JHEP)*, 2023. *Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
-  <span style="font-size:4mm;">[paper](https://link.springer.com/article/10.1007/JHEP07(2023)188) | [code](https://github.com/mayeechen/anomaly-detection-multi)</span>
 
 - [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441) <br>
   <span style="font-size:4mm;">Simran Arora\*, Avanika Narayan\*, **Mayee F. Chen**, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2023. **Notable top 25% of acceptances.** </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2210.02441.pdf) | [code](https://github.com/HazyResearch/ama_prompting)</span>
 
-- [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
-  <span style="font-size:4mm;">Khaled Saab, Sarah M. Hooper, **Mayee F. Chen**, Michael Zhang, Daniel Rubin, Christopher Ré. *Machine Learning for Healthcare (MLHC)*, 2022. </span><br>
-  <span style="font-size:4mm;">[paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) | [code](https://github.com/khaledsaab/spatial_specificity)</span>
 
+
+### Data Labeling
 
 - [Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Daniel Y. Fu\*, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré. *Uncertainty in Artificial Intelligence (UAI)*, 2022. **Best Student Paper Runner-Up Award, Oral Presentation.** </span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2203.13270.pdf) | [code](https://github.com/HazyResearch/liger) [slides](https://mayeechen.github.io/files/LigerUAITalk.pdf) | [blog](https://snorkel.ai/liger-fusing-foundation-model-embeddings-weak-supervision/) | [Snorkel talk](https://www.youtube.com/watch?v=rTpwOYXUuCk) </span>
+
+- [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Artificial Intelligence and Statistics (AISTATS)*, 2021.</span> <br>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2103.02761.pdf) | [slides](https://mayeechen.github.io/files/AISTATS2021talk.pdf) </span>
+
+- [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods.](https://arxiv.org/abs/2002.11955) <br>
+  <span style="font-size:4mm;">Daniel Y. Fu\*, **Mayee F. Chen**\*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2020.</span> <br>
+  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2002.11955.pdf) | [code](https://github.com/HazyResearch/flyingsquid) | [video](https://www.youtube.com/watch?v=pHadwUKCoNE) | [blog](https://hazyresearch.stanford.edu/flyingsquid) </span>
+
+
+### Data Representations
 
 
 - [Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning](https://arxiv.org/abs/2204.07596) <br>
@@ -107,17 +122,26 @@ Please get in touch with me via email if you would like to chat about research o
   <span style="font-size:4mm;"> [paper](https://www.mdpi.com/2813-0324/3/1/4/pdf) | [code](https://github.com/HazyResearch/thanos-code) </span>
 
 
+### Science/Health Applications
+
+- [A case for reframing automated medical image classification as segmentation.]()<br>
+  <span style="font-size:4mm;">Sarah Hooper, **Mayee F. Chen**, Khaled Kamal Saab, Kush Bhatia, Curtis Langlotz, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. </span><br> 
+
+- [Anomaly Detection with Multiple Reference Datasets](https://link.springer.com/article/10.1007/JHEP07(2023)188) <br>
+  <span style="font-size:4mm;">**Mayee F. Chen**, Benjamin Nachman, Frederic Sala. *Journal of High Energy Physics (JHEP)*, 2023. *Machine Learning and the Physical Sciences (ML4PS) Workshop at NeurIPS*, 2022. </span><br>
+  <span style="font-size:4mm;">[paper](https://link.springer.com/article/10.1007/JHEP07(2023)188) | [code](https://github.com/mayeechen/anomaly-detection-multi)</span>
+
+- [Reducing Reliance on Spurious Features in Medical Image Classification with Spatial Specificity.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) <br>
+  <span style="font-size:4mm;">Khaled Saab, Sarah M. Hooper, **Mayee F. Chen**, Michael Zhang, Daniel Rubin, Christopher Ré. *Machine Learning for Healthcare (MLHC)*, 2022. </span><br>
+  <span style="font-size:4mm;">[paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a2961bc144a5d6a4cbb/1659468331136/126+MLHC_2022_Specificity_Robustness_cameraready.pdf) | [code](https://github.com/khaledsaab/spatial_specificity)</span>
+
+
+
+### Model evaluation
+
 - [Mandoline: Model Evaluation under Distribution Shift](https://arxiv.org/abs/2107.00643) <br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Karan Goel\*, Nimit Sohoni\*, Fait Poms, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2021.</span> <br>
   <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2107.00643.pdf) | [code](https://github.com/HazyResearch/mandoline) | [slides](https://mayeechen.github.io/files/ICMLMandolineTalk.pdf) | [MedAI talk](https://www.youtube.com/watch?v=LmiNQio4db0) </span>
-
-- [Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation.](https://arxiv.org/abs/2103.02761) <br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Benjamin Cohen-Wang\*, Steve Mussmann, Frederic Sala, and Christopher Ré. *Artificial Intelligence and Statistics (AISTATS)*, 2021.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2103.02761.pdf) | [slides](https://mayeechen.github.io/files/AISTATS2021talk.pdf) </span>
-
-- [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods.](https://arxiv.org/abs/2002.11955) <br>
-  <span style="font-size:4mm;">Daniel Y. Fu\*, **Mayee F. Chen**\*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, and Christopher Ré. *International Conference on Machine Learning (ICML)*, 2020.</span> <br>
-  <span style="font-size:4mm;"> [paper](https://arxiv.org/pdf/2002.11955.pdf) | [code](https://github.com/HazyResearch/flyingsquid) | [video](https://www.youtube.com/watch?v=pHadwUKCoNE) | [blog](https://hazyresearch.stanford.edu/flyingsquid) </span>
 
 
 ### Older
