@@ -50,6 +50,9 @@ Please get in touch with me via email if you would like to chat about research o
 Publications and Preprints
 ------
 
+- [Aioli: A Unified Optimization Framework for Language Model Data Mixing]()<br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Michael Y. Hu\*, Nicholas Lourie, Kyunghyun Cho, Christopher Ré. *In submission*, 2024.</span><br>
+
 - [Archon: An Architecture Search Framework for Inference-Time Techniques]()<br>
   <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *In submission*, 2024.</span><br>
 
