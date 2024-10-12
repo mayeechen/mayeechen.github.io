@@ -47,7 +47,7 @@ I took a broad range of courses in computer science, statistics and financial ma
 Please get in touch with me via email if you would like to chat about research or collaboration!
 
 
-Publications and Preprints
+### Publications and Preprints
 ------
 
 - [Aioli: A Unified Optimization Framework for Language Model Data Mixing]()<br>
