@@ -12,9 +12,9 @@ I am a PhD student in Computer Science at Stanford University, advised by Prof. 
 
 <!--I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods.-->
 
-I'm interested in using a theoretical lens to improve modern machine learning techniques from the data side of things (what is often referred to as **data-centric AI**). Recently, I've been focusing on problems in data selection, data labeling, and data representations, especially in the setting where there are multiple input signals or objectives. Moving forward, I am particularly excited about developing a more principled understanding of how models learn from data.
+<!--I'm interested in using a theoretical lens to improve modern machine learning techniques from the data side of things (what is often referred to as **data-centric AI**). Recently, I've been focusing on problems in data mixing, data labeling, and data representations, especially in the setting where there are multiple input signals or objectives. Moving forward, I am particularly excited about developing a more principled understanding of how models learn from data.-->
 
-
+I'm interested in studying and improving the fundamentals of modern machine learning through data (often known as **data-centric AI**). On the model training side, I work on data mixing, synthetic data, data representations, and data labeling. On the inference side, I work on test-time algorithms to produce higher-quality model generations, such as ensembling and routing. Currently, I am thinking about how to develop and operationalize a more principled understanding of how models learn from data (what skills does data teach the model? Does it matter if the data is synthetic or real?)
 
 
 <!--I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
@@ -36,7 +36,7 @@ Recently, I've been focused on **data-centric AI**, working on understanding the
 <!--More fundamentally, I have been working on developing efficient and robust estimators in latent variable models and understanding their finite-sample generalization error in different applications. 
 I also enjoy learning about information theory, optimization, and probability theory.-->
 
-Previously, I graduated summa cum laude from Princeton University in 2019 with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing, where I worked with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and Prof. [Miklos Racz](https://mracz.princeton.edu/).
+Previously, I graduated summa cum laude from Princeton University with a concentration in Operations Research and Financial Engineering (ORFE) and a certificate in Applications of Computing, where I worked with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and Prof. [Miklos Racz](https://mracz.princeton.edu/).
 <!--I worked on my senior thesis on quantum machine learning with Prof. [Elad Hazan](https://www.cs.princeton.edu/~ehazan/) and completed junior independent work on modeling misinformation in social networks  with Prof. [Miklos Racz](https://mracz.princeton.edu/).-->
 <!--My senior thesis, which was awarded the Ahmet S. Çakmak Prize, was on quantum computing with Professor Elad Hazan.
 I also worked with Prof. Miklos Racz on understanding the spread of misinformation in social networks.
@@ -49,15 +49,23 @@ Please get in touch with me via email if you would like to chat about research o
 
 Publications and Preprints
 ------
+
+- [Aioli: A Unified Optimization Framework for Language Model Data Mixing]()<br>
+  <span style="font-size:4mm;">**Mayee F. Chen**\*, Michael Y. Hu\*, Nicholas Lourie, Kyunghyun Cho, Christopher Ré. *In submission*, 2024.</span><br>
+
+- [Archon: An Architecture Search Framework for Inference-Time Techniques]()<br>
+  <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *In submission*, 2024.</span><br>
+
 - [Smoothie: Label Free Language Model Routing]()<br>
-  <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *In submission*, 2024.</span><br>
+  <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
   
-- [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates]()<br>
+- [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates](https://arxiv.org/abs/2410.05224)<br>
   <span style="font-size:4mm;">Avanika Narayan\*, **Mayee F. Chen**\*, Kush Bhatia, Christopher Ré. *Conference on Language Modeling (COLM)*, 2024.</span><br>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2410.05224.pdf) </span>
   
 - [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight (top 3.1% of submissions).**</span><br>
-  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf) | [AllenAI talk](https://mayeechen.github.io/files/allenai_talk.pdf) </span>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf) | [AllenAI talk](https://mayeechen.github.io/files/allenai_talk.pdf) | [code](https://github.com/HazyResearch/skill-it) </span>
  
 - [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)<br>
   <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Kush Bhatia\*, Azalia Mirhoseini, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. </span><br>
