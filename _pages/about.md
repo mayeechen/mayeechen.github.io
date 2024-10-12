@@ -50,23 +50,6 @@ Please get in touch with me via email if you would like to chat about research o
 Publications and Preprints
 ------
 
-- [Aioli: A Unified Optimization Framework for Language Model Data Mixing]()<br>
-  <span style="font-size:4mm;">**Mayee F. Chen**\*, Michael Y. Hu\*, Nicholas Lourie, Kyunghyun Cho, Christopher Ré. *In submission*, 2024.</span><br>
-
-- [Archon: An Architecture Search Framework for Inference-Time Techniques]()<br>
-  <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *In submission*, 2024.</span><br>
-
-- [Smoothie: Label Free Language Model Routing]()<br>
-  <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
-  
-- [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates](https://arxiv.org/abs/2410.05224)<br>
-  <span style="font-size:4mm;">Avanika Narayan\*, **Mayee F. Chen**\*, Kush Bhatia, Christopher Ré. *Conference on Language Modeling (COLM)*, 2024.</span><br>
-  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2410.05224.pdf) </span>
-  
-- [Skill-it! A data-driven skills framework for understanding and training language models.](https://arxiv.org/abs/2307.14430)<br>
-  <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight (top 3.1% of submissions).**</span><br>
-  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf) | [AllenAI talk](https://mayeechen.github.io/files/allenai_talk.pdf) | [code](https://github.com/HazyResearch/skill-it) </span>
- 
 - [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)<br>
   <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Kush Bhatia\*, Azalia Mirhoseini, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. </span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.11031.pdf)</span>
