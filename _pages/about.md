@@ -54,8 +54,9 @@ For a chronological order of my publications, please check out my [Google Schola
 
 ### Training Data
 
-- [Aioli: A Unified Optimization Framework for Language Model Data Mixing]()<br>
+- [Aioli: A Unified Optimization Framework for Language Model Data Mixing](https://arxiv.org/abs/2411.05735)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Michael Y. Hu\*, Nicholas Lourie, Kyunghyun Cho, Christopher Ré. *In submission*, 2024.</span><br>
+<span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2411.05735) | [code](https://github.com/HazyResearch/aioli) </span>
 
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)<br>
   <span style="font-size:4mm;">Jeffrey Li, ..., Ludwig Schmidt, Vaishaal Shankar (59 authors, including **Mayee F. Chen**). *Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, 2024.</span><br>
