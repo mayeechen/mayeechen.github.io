@@ -73,12 +73,13 @@ For a chronological order of my publications, please check out my [Google Schola
 ### Test-time Improvements
 
 
-- [Archon: An Architecture Search Framework for Inference-Time Techniques]()<br>
+- [Archon: An Architecture Search Framework for Inference-Time Techniques](https://arxiv.org/abs/2409.15254)<br>
   <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *In submission*, 2024.</span><br>
+ <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2409.15254)</span>
 
-- [Smoothie: Label Free Language Model Routing]()<br>
+- [Smoothie: Label Free Language Model Routing](https://arxiv.org/abs/2412.04692)<br>
   <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Trevor Chow, Ishan S. Khare, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2024.</span><br>
-  
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2412.04692) | [code](https://github.com/HazyResearch/smoothie) | [blog](https://hazyresearch.stanford.edu/blog/2024-12-10-smoothie)</span>
 
 - [Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification.](https://arxiv.org/abs/2307.11031)<br>
   <span style="font-size:4mm;">Neel Guha\*, **Mayee F. Chen**\*, Kush Bhatia\*, Azalia Mirhoseini, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. </span><br>
