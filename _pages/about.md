@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at Stanford University, advised by Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
+I am a final-year PhD student in Computer Science at Stanford University, advised by Prof. [Christopher Ré](https://cs.stanford.edu/~chrismre/) and part of the [Hazy Research Lab](https://hazyresearch.stanford.edu/).
 
 <!--I'm interested in exploring fundamental questions behind tools in modern machine learning and using them to develop new, theoretically grounded methods.-->
 
 <!--I'm interested in using a theoretical lens to improve modern machine learning techniques from the data side of things (what is often referred to as **data-centric AI**). Recently, I've been focusing on problems in data mixing, data labeling, and data representations, especially in the setting where there are multiple input signals or objectives. Moving forward, I am particularly excited about developing a more principled understanding of how models learn from data.-->
 
-I'm interested in studying and improving the fundamentals of modern machine learning through data (often known as **data-centric AI**). On the model training side, I work on data mixing, synthetic data, data representations, and data labeling. On the inference side, I work on test-time algorithms to produce higher-quality model generations, such as ensembling and routing. Currently, I am thinking about how to develop and operationalize a more principled understanding of how models learn from data (what skills does data teach the model? Does it matter if the data is synthetic or real?)
+I'm interested in studying and improving the fundamentals of modern machine learning through data (often known as **data-centric AI**). On the model training side, I work on data mixing, curriculum learning, synthetic data, and data labeling. On the inference side, I work on techniques such as ensembling, routing, and verification. Currently, I am thinking about how to develop and operationalize a more principled understanding of how models learn from data (what skills does data teach the model? Does it matter if the data is synthetic or real?) I am currently a research intern at the [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/), driving data mixing efforts for their OLMo open-source language models.
 
 
 <!--I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
@@ -56,7 +56,7 @@ For a chronological order of my publications, please check out my [Google Schola
 
 - [Aioli: A Unified Optimization Framework for Language Model Data Mixing](https://arxiv.org/abs/2411.05735)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Michael Y. Hu\*, Nicholas Lourie, Kyunghyun Cho, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2025.</span><br>
-<span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2411.05735) | [code](https://github.com/HazyResearch/aioli) </span>
+<span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2411.05735) | [code](https://github.com/HazyResearch/aioli) | [data mixing tutorial for Data@CoRL2025 workshop]() </span>
 
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)<br>
   <span style="font-size:4mm;">Jeffrey Li, ..., Ludwig Schmidt, Vaishaal Shankar (59 authors, including **Mayee F. Chen**). *Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, 2024.</span><br>
@@ -70,11 +70,14 @@ For a chronological order of my publications, please check out my [Google Schola
   <span style="font-size:4mm;">**Mayee F. Chen**, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré. *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. **Spotlight (top 3.1% of submissions).**</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2307.14430.pdf) | [AllenAI talk](https://mayeechen.github.io/files/allenai_talk.pdf) | [code](https://github.com/HazyResearch/skill-it) </span>
 
-### Test-time Improvements
+### Test-time Techniques
 
+- [Shrinking the Generation-Verification Gap with Weak Verifiers](https://arxiv.org/abs/2506.18203)<br>
+  <span style="font-size:4mm;">Jon Saad-Falcon\*, E. Kelly Buchanan\*, **Mayee F. Chen**\*,  Tzu-Heng Huang, Brendan McLaughlin, Tanvir Bhathal, Shang Zhu, Ben Athiwaratkun, Frederic Sala, Scott Linderman, Azalia Mirhoseini, Christopher R\'e. *Conference on Neural Information Processing Systems (NeurIPS)*, 2025.</span><br>
+ <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2506.18203) | [blog](https://hazyresearch.stanford.edu/blog/2025-06-18-weaver)</span>
 
 - [Archon: An Architecture Search Framework for Inference-Time Techniques](https://arxiv.org/abs/2409.15254)<br>
-  <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *In submission*, 2024.</span><br>
+  <span style="font-size:4mm;">Jon Saad-Falcon, Adrian Gamarra Lafuente, Shlok Natarajan, Nahum Maru, Hristo Todorov, Etash Kumar Guha, E. Kelly Buchanan, **Mayee F. Chen**, Neel Guha, Christopher Ré, Azalia Mirhoseini. *International Conference on Machine Learning (ICML)*, 2025.</span><br>
  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2409.15254)</span>
 
 - [Smoothie: Label Free Language Model Routing](https://arxiv.org/abs/2412.04692)<br>
