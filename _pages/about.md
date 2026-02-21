@@ -14,7 +14,7 @@ I am a final-year PhD student in Computer Science at Stanford University, advise
 
 <!--I'm interested in using a theoretical lens to improve modern machine learning techniques from the data side of things (what is often referred to as **data-centric AI**). Recently, I've been focusing on problems in data mixing, data labeling, and data representations, especially in the setting where there are multiple input signals or objectives. Moving forward, I am particularly excited about developing a more principled understanding of how models learn from data.-->
 
-I'm interested in studying and improving the fundamentals of modern machine learning through data (often known as **data-centric AI**). On the model training side, I work on data mixing, curriculum learning, synthetic data, and data labeling. On the inference side, I work on techniques such as ensembling, routing, and verification. Currently, I am thinking about how to develop and operationalize a more principled understanding of how models learn from data (what skills does data teach the model? Does it matter if the data is synthetic or real?) I am currently a research intern at the [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/), driving data mixing efforts for their OLMo open-source language models.
+I'm interested in studying and improving the fundamentals of modern machine learning through data (often known as **data-centric AI**). On the model training side, I work on data mixing, curriculum learning, synthetic data, and data labeling. On the inference side, I work on techniques such as ensembling, routing, and verification. Currently, I am thinking about how to develop and operationalize a more principled understanding of how models learn from data (what skills does data teach the model? Does it matter if the data is synthetic or real?) I am currently a research intern at the [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/), driving data mixing efforts for their Olmo open-source language models.
 
 
 <!--I'm interested in using theoretical tools to understand and improve on modern machine learning techniques.
@@ -50,9 +50,19 @@ Please get in touch with me via email if you would like to chat about research o
 ## Publications and Preprints
 ------
 
-For a chronological order of my publications, please check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dhgytncAAAAJ&view_op=list_works&sortby=pubdate)/[CV](https://mayeechen.github.io/files/MayeeChen_CV.pdf). 
+For a chronological order of publications, please check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=dhgytncAAAAJ&view_op=list_works&sortby=pubdate)/[CV](https://mayeechen.github.io/files/MayeeChen_CV.pdf). 
 
 ### Training Data
+
+- [Olmix: A Framework for Data Mixing Throughout LM Development](https://arxiv.org/abs/2602.12237)
+  <span style="font-size:4mm;">**Mayee F. Chen**, Tyler Murray, David Heineman, Matt Jordan, Hannaneh Hajishirzi, Christopher Ré, Luca Soldaini, Kyle Lo. *In Submission*, 2026.</span><br>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2602.12237) | [code](https://github.com/allenai/olmix) | [data](https://huggingface.co/datasets/allenai/olmix) | [blog](https://allenai.org/blog/olmix)
+
+
+- [Olmo 3](https://arxiv.org/abs/2512.13961)<br>
+  <span style="font-size:4mm;">Olmo Team, ..., **Mayee F. Chen** (core contributor), ...</span><br>
+  <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2512.13961) | [blog](https://allenai.org/blog/olmo3)
+
 
 - [Aioli: A Unified Optimization Framework for Language Model Data Mixing](https://arxiv.org/abs/2411.05735)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**\*, Michael Y. Hu\*, Nicholas Lourie, Kyunghyun Cho, Christopher Ré. *International Conference on Learning Representations (ICLR)*, 2025.</span><br>
