@@ -54,13 +54,13 @@ For a chronological order of publications, please check out my [Google Scholar](
 
 ### Training Data
 
-- [Olmix: A Framework for Data Mixing Throughout LM Development](https://arxiv.org/abs/2602.12237)
+- [Olmix: A Framework for Data Mixing Throughout LM Development](https://arxiv.org/abs/2602.12237)<br>
   <span style="font-size:4mm;">**Mayee F. Chen**, Tyler Murray, David Heineman, Matt Jordan, Hannaneh Hajishirzi, Christopher Ré, Luca Soldaini, Kyle Lo. *In Submission*, 2026.</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2602.12237) | [code](https://github.com/allenai/olmix) | [data](https://huggingface.co/datasets/allenai/olmix) | [blog](https://allenai.org/blog/olmix)
 
 
 - [Olmo 3](https://arxiv.org/abs/2512.13961)<br>
-  <span style="font-size:4mm;">Olmo Team, ..., **Mayee F. Chen** (core contributor), ...</span><br>
+  <span style="font-size:4mm;">Olmo Team (incl. **Mayee F. Chen**, core contributor)</span><br>
   <span style="font-size:4mm;">[paper](https://arxiv.org/abs/2512.13961) | [blog](https://allenai.org/blog/olmo3)
 
 
@@ -69,7 +69,7 @@ For a chronological order of publications, please check out my [Google Scholar](
 <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2411.05735) | [code](https://github.com/HazyResearch/aioli) | [data mixing tutorial for Data@CoRL2025 workshop](https://mayeechen.github.io/files/data_corl_2025_presentation.pdf)</span>
 
 - [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)<br>
-  <span style="font-size:4mm;">Jeffrey Li, ..., Ludwig Schmidt, Vaishaal Shankar (59 authors, including **Mayee F. Chen**). *Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, 2024.</span><br>
+  <span style="font-size:4mm;">Jeffrey Li, ..., Ludwig Schmidt, Vaishaal Shankar (incl. **Mayee F. Chen**). *Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, 2024.</span><br>
 <span style="font-size:4mm;">[paper](https://arxiv.org/pdf/2406.11794.pdf) | [code](https://github.com/mlfoundations/dclm) | [project page](https://www.datacomp.ai/dclm/)</span>
 
 - [Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates](https://arxiv.org/abs/2410.05224)<br>
